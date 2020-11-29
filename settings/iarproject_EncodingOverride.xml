@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<userOverrides>
+    <override>
+        <path>C:\Users\kadyr\Desktop\Robert\Cpecialno dlyf IAR\stm32Labs-master (1)\stm32Labs-master\Lab5EmptyInterrupt\main.cpp</path>
+        <encoding>Win-1251</encoding>
+    </override>
+    <override>
+        <path>C:\Users\kadyr\Desktop\Robert\Cpecialno dlyf IAR\stm32Labs-master (1)\stm32Labs-master\Lab5EmptyInterrupt\startup.cpp</path>
+        <encoding>Win-1251</encoding>
+    </override>
+</userOverrides>
